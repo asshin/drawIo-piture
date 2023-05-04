@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-04T07:47:54.248Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ev80tgsBPfyxZUuITBN3" version="21.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-04T08:04:02.257Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="-FtIN1X0VBn4F3oaP5Ua" version="21.2.7" type="github">
   <diagram name="第 1 页" id="hXv1VPht1hSjsX_FTyx6">
-    <mxGraphModel dx="800" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="967" dy="594" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,19 +17,51 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aU5gWcS06NwL8JqZmww--1" value="&lt;font color=&quot;#ffffff&quot;&gt;一致性检查&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7EA6E0;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="150" y="555" width="120" height="60" as="geometry" />
+          <mxGeometry x="9" y="551" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aU5gWcS06NwL8JqZmww--2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="414" y="500" width="120" height="60" as="geometry" />
+        <mxCell id="aU5gWcS06NwL8JqZmww--13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#AED1E5;endArrow=none;endFill=0;" edge="1" parent="1" source="aU5gWcS06NwL8JqZmww--2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="439" y="526" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="aU5gWcS06NwL8JqZmww--3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="414" y="590" width="120" height="60" as="geometry" />
+        <mxCell id="aU5gWcS06NwL8JqZmww--2" value="精确性" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="273" y="496" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aU5gWcS06NwL8JqZmww--4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="414" y="680" width="120" height="60" as="geometry" />
+        <mxCell id="aU5gWcS06NwL8JqZmww--14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#AED1E5;endArrow=none;endFill=0;" edge="1" parent="1" source="aU5gWcS06NwL8JqZmww--3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="439" y="615.7241379310344" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aU5gWcS06NwL8JqZmww--3" value="泛化性" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="273" y="586" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aU5gWcS06NwL8JqZmww--15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#AED1E5;endArrow=none;endFill=0;" edge="1" parent="1" source="aU5gWcS06NwL8JqZmww--4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="439" y="706.0689655172414" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aU5gWcS06NwL8JqZmww--4" value="可理解性" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="273" y="676" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aU5gWcS06NwL8JqZmww--11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#AED1E5;endArrow=none;endFill=0;" edge="1" parent="1" source="aU5gWcS06NwL8JqZmww--5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="439" y="436" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="aU5gWcS06NwL8JqZmww--5" value="适应性" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="414" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="273" y="406" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aU5gWcS06NwL8JqZmww--16" value="&lt;p style=&quot;line-height: 240%;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;事件日志中的&lt;span style=&quot;line-height: 150%; color: rgb(46, 48, 51); background: white;&quot;&gt;轨迹能够&lt;/span&gt;&lt;span style=&quot;line-height: 150%; color: rgb(46, 48, 51);&quot;&gt;在流程模型中&lt;/span&gt;&lt;span style=&quot;line-height: 150%; color: rgb(46, 48, 51); background: white;&quot;&gt;成功&lt;/span&gt;&lt;span style=&quot;line-height: 150%; color: rgb(46, 48, 51);&quot;&gt;执行的&lt;/span&gt;&lt;span style=&quot;line-height: 150%; color: rgb(46, 48, 51); background: white;&quot;&gt;数量占总轨迹数的&lt;/span&gt;&lt;span style=&quot;line-height: 150%; color: rgb(46, 48, 51);&quot;&gt;比例&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelPosition=center;verticalLabelPosition=middle;fontFamily=Lucida Console;" vertex="1" parent="1">
+          <mxGeometry x="429" y="401" width="400" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aU5gWcS06NwL8JqZmww--17" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;流程模型中观察到的行为轨迹占事件日志中记录的行为轨迹的比例&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="439" y="508.5" width="460" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="aU5gWcS06NwL8JqZmww--18" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;新的未见案例拟合挖掘模型的适应能力&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="439" y="598.5" width="460" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="aU5gWcS06NwL8JqZmww--19" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;评估流程模型的简洁性和结构性&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="439" y="688.5" width="460" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
