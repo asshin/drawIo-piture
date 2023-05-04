@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-04T08:04:02.257Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="-FtIN1X0VBn4F3oaP5Ua" version="21.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-04T08:16:21.725Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="UFPGxzZnNMxYYBkiXnZU" version="21.2.7" type="github">
   <diagram name="第 1 页" id="hXv1VPht1hSjsX_FTyx6">
-    <mxGraphModel dx="967" dy="594" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="967" dy="548" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,10 +51,10 @@
         <mxCell id="aU5gWcS06NwL8JqZmww--5" value="适应性" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="273" y="406" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aU5gWcS06NwL8JqZmww--16" value="&lt;p style=&quot;line-height: 240%;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;事件日志中的&lt;span style=&quot;line-height: 150%; color: rgb(46, 48, 51); background: white;&quot;&gt;轨迹能够&lt;/span&gt;&lt;span style=&quot;line-height: 150%; color: rgb(46, 48, 51);&quot;&gt;在流程模型中&lt;/span&gt;&lt;span style=&quot;line-height: 150%; color: rgb(46, 48, 51); background: white;&quot;&gt;成功&lt;/span&gt;&lt;span style=&quot;line-height: 150%; color: rgb(46, 48, 51);&quot;&gt;执行的&lt;/span&gt;&lt;span style=&quot;line-height: 150%; color: rgb(46, 48, 51); background: white;&quot;&gt;数量占总轨迹数的&lt;/span&gt;&lt;span style=&quot;line-height: 150%; color: rgb(46, 48, 51);&quot;&gt;比例&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelPosition=center;verticalLabelPosition=middle;fontFamily=Lucida Console;" vertex="1" parent="1">
-          <mxGeometry x="429" y="401" width="400" height="70" as="geometry" />
+        <mxCell id="aU5gWcS06NwL8JqZmww--16" value="&lt;p style=&quot;line-height: 240%;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;事件日志中的&lt;span style=&quot;line-height: 150%; color: rgb(46, 48, 51); background: white;&quot;&gt;轨迹能够&lt;/span&gt;&lt;span style=&quot;line-height: 150%; color: rgb(46, 48, 51);&quot;&gt;在流程模型中&lt;/span&gt;&lt;span style=&quot;line-height: 150%; color: rgb(46, 48, 51); background: white;&quot;&gt;成功&lt;/span&gt;&lt;span style=&quot;line-height: 150%; color: rgb(46, 48, 51);&quot;&gt;执行的&lt;/span&gt;&lt;span style=&quot;line-height: 150%; color: rgb(46, 48, 51); background: white;&quot;&gt;数量占总轨迹数的&lt;/span&gt;&lt;span style=&quot;line-height: 150%; color: rgb(46, 48, 51);&quot;&gt;比例&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelPosition=center;verticalLabelPosition=middle;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="434" y="404" width="390" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="aU5gWcS06NwL8JqZmww--17" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;流程模型中观察到的行为轨迹占事件日志中记录的行为轨迹的比例&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aU5gWcS06NwL8JqZmww--17" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;流程模型中观察到的行为轨迹占事件日志中记录的行为轨迹的比例&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="439" y="508.5" width="460" height="35" as="geometry" />
         </mxCell>
         <mxCell id="aU5gWcS06NwL8JqZmww--18" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;新的未见案例拟合挖掘模型的适应能力&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
